@@ -29,7 +29,7 @@ public class HomeWork4 {
     public static char[][] invisibleMap;
     public static int mapWidth;
     public static int mapHeight;
-    public static int mapValueMin = 10;
+    public static int mapValueMin = 5;
     public static int mapValueMax = 10;
     public static char mapEmpty = '_';
     public static char mapReady = '*';
